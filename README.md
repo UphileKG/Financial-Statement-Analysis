@@ -18,6 +18,8 @@ The goal of this project is to demonstrate my practical financial analysis skill
 
 The dashboard is designed to replicate how financial performance is reviewed in real-world FP&A and analyst environments.
 
+![1.Nike Financial Statements Dashboard](screenshots/1.Nike Financial Statement Dashboard.png)
+
 ## Project Objectives 
 
 - Analyse Nike’s financial performance across multiple years
@@ -58,6 +60,9 @@ The dashboard focususes on a core set of decision-driving KPIs:
 - Dynamic KPI tiles that update based on a Year slicer
 - Provides a high-level financial snapshot for quick decision-making
 
+![2. Nike KPIs](screenshots/2. Nike KPIs.png) 
+
+
 ### 2. Waterfall Chart (Earnings Bridge)
 Visualises the change in Net Income year-on-year
 Breaks earnings movement into:
@@ -67,10 +72,14 @@ Breaks earnings movement into:
 
 Clearly highlights the primary driver of performance change.
 
+![Nike Waterfall](screenshots/4. Nike Waterfall.png)
+
 ### 3. Industry Benchmarck Comparison
 Clustered chart comparing Nike’s key margins against industry averages
 
 Helps contextualise performance beyond absolute numbers
+
+![3. Nike Benchmarks](screenshots/3. Nike Benchmarks.png)
 
 ### 4. Forecasting (Actual vs Forecast)
 Revenue forecasting using historical trend-based methods
@@ -79,18 +88,19 @@ Actual and Forecast values displayed as separate series for clarity
 
 Enables forward-looking analysis rather than purely historical review
 
+![5. Nike forecast](screenshots/5. Nike forecast.png)
+
 ### 5. Dynamic Insights & Recommendations
 Pre-written insights driven by IF logic
 Automatically update based on:
 
 - Revenue growth
-
 - Margin performance
-
 - Cost behaviour
 
-- Earnings drivers
 Mimics executive commentary found in analyst reports
+
+![5. Nike insights](screenshots/6. Nike insights.png)
 
 ## Analytical Logic
 The project emphasises structure and reasoning, including:
