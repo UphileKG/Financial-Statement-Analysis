@@ -18,7 +18,7 @@ The goal of this project is to demonstrate my practical financial analysis skill
 
 The dashboard is designed to replicate how financial performance is reviewed in real-world FP&A and analyst environments.
 
-![1.Nike Financial Statements Dashboard](screenshots/1.Nike Financial Statement Dashboard.png)
+![1.Nike Financial Statements Dashboard](screenshots/nike_financial_dashboard.png)
 
 ## Project Objectives 
 
@@ -60,7 +60,7 @@ The dashboard focususes on a core set of decision-driving KPIs:
 - Dynamic KPI tiles that update based on a Year slicer
 - Provides a high-level financial snapshot for quick decision-making
 
-![2. Nike KPIs](screenshots/2. Nike KPIs.png) 
+![2. Nike KPIs](screenshots/nike_kpis.png) 
 
 
 ### 2. Waterfall Chart (Earnings Bridge)
@@ -72,14 +72,14 @@ Breaks earnings movement into:
 
 Clearly highlights the primary driver of performance change.
 
-![Nike Waterfall](screenshots/4. Nike Waterfall.png)
+![Nike Waterfall](screenshots/nike_waterfall.png)
 
 ### 3. Industry Benchmarck Comparison
 Clustered chart comparing Nike’s key margins against industry averages
 
 Helps contextualise performance beyond absolute numbers
 
-![3. Nike Benchmarks](screenshots/3. Nike Benchmarks.png)
+![3. Nike Benchmarks](screenshots/nike_benchmarks.png)
 
 ### 4. Forecasting (Actual vs Forecast)
 Revenue forecasting using historical trend-based methods
@@ -88,7 +88,7 @@ Actual and Forecast values displayed as separate series for clarity
 
 Enables forward-looking analysis rather than purely historical review
 
-![5. Nike forecast](screenshots/5. Nike forecast.png)
+![5. Nike forecast](screenshots/nike_forecast.png)
 
 ### 5. Dynamic Insights & Recommendations
 Pre-written insights driven by IF logic
@@ -100,7 +100,7 @@ Automatically update based on:
 
 Mimics executive commentary found in analyst reports
 
-![5. Nike insights](screenshots/6. Nike insights.png)
+![5. Nike insights](screenshots/nike_insights.png)
 
 ## Analytical Logic
 The project emphasises structure and reasoning, including:
@@ -136,6 +136,11 @@ Data storytelling & dashboard design
 ## Author: Uphile Gama
 Aspiring Financial Data Analyst  
 Focused on bridging finance and analytics through practical, real-world projects
+
+## Project Files
+
+Download the Nike Financial Dashboard File:
+- ![Download](nike_financial_analysis_dashboard.xlsx)
 
 ## Data sources
  [Discounting Cash Flows](https://discountingcashflows.com/company/NKE/overview/) 
